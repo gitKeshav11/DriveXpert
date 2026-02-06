@@ -1,13 +1,6 @@
 # 🚗✨ DriveXpert – Smart Car Rental Management System
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-Project-orange?style=for-the-badge&logo=java"/>
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open%20Source-Yes-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Portfolio-Ready-purple?style=for-the-badge"/>
-</p>
-
-<p align="center">
   <b>🚀 Modern Car Rental System built using Java & OOP Concepts</b>
 </p>
 
@@ -89,13 +82,6 @@ DriveXpert/
 
 # ⚡ Installation & Setup
 
-## 🔽 Clone Repository
-
-```bash
-git clone https://github.com/gitKeshav11/DriveXpert.git
-cd DriveXpert
-```
-
 ## 🖥️ Open in IDE
 
 Open project in:
@@ -125,35 +111,6 @@ Main.java
 
 ---
 
-# 🚀 Future Improvements
-
-* Add GUI (Java Swing/JavaFX) 🎨
-* Add login system 🔐
-* Add database (MySQL) 🗄️
-* Add payment system 💳
-* Convert into web app 🌐
-* Admin dashboard 📊
-
----
-
-# 🏆 Why This Project?
-
-This project demonstrates:
-
-* Real-world project building
-* Strong Java fundamentals
-* Clean coding practices
-* Problem-solving skills
-* System design thinking
-
-Perfect to impress:
-
-> 💼 Recruiters
-> 🎓 Teachers
-> 🌐 GitHub visitors
-
----
-
 # 🤝 Contributing
 
 Contributions are welcome!
@@ -179,10 +136,6 @@ If you like this project:
 ⭐ Star the repo
 🍴 Fork it
 📢 Share with friends
-
----
-
-# 🔥 Portfolio Ready Project
 
 A perfect project to showcase:
 ✔️ Java skills
