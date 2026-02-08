@@ -4,9 +4,6 @@
   <b>🚀 Modern Car Rental System built using Java & OOP Concepts</b>
 </p>
 
-
-
-
 ---
 
 # 🌟 Project Overview
